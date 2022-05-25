@@ -1,0 +1,5 @@
+Vodka
+Bière
+Tequila
+Whiskey
+Mojito
