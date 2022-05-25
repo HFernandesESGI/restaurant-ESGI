@@ -1,5 +1,5 @@
-Vodka
-Bière
-Tequila
-Whiskey
-Mojito
+CocaCola
+Fanta
+Sprite
+Evian
+Orangina
